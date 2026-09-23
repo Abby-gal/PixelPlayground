@@ -1,0 +1,7 @@
+#pixelCanvas {
+  width: 500px;
+  height: 500px;
+  /* keep pixels crisp instead of blurring on upscale */
+  image-rendering: pixelated;
+  image-rendering: crisp-edges;
+}
