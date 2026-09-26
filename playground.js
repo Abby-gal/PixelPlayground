@@ -1,4 +1,23 @@
-clearScreen("black");
-drawPixel(20, 20, "blue");
-drawHorizontalLine(10, 10, "green");
+clearScreen("pink");
+drawPixel(48, 50, "yellow");
+drawHorizontalLine(40, 10, "blue");
 console.log("hello World");
+
+drawPixel(40, 49, "black");
+drawPixel(40, 50, "black");
+drawPixel(40, 51, "black");
+drawPixel(40, 52, "black");
+drawPixel(40, 53, "black");
+drawPixel(50, 53, "black");
+drawPixel(50, 52, "black");
+drawPixel(50, 51, "black");
+drawPixel(50, 50, "black");
+drawPixel(50, 49, "black");
+drawPixel(49, 48, "black");
+drawPixel(48, 47, "black");
+drawPixel(47, 46, "black");
+drawPixel(46, 45, "black");
+drawPixel(44, 46, "black");
+drawPixel(43, 47, "black");
+drawPixel(42, 48, "black");
+drawPixel(41, 49, "black");
